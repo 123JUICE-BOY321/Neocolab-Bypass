@@ -9,7 +9,7 @@ A simple Linux utility that **types clipboard contents instead of pasting** for 
 ## 📦 Installation
 - ### Clone the Repository
   ``` bash
-  git clone https://github.com/your-username/Neocolab-Bypass.git
+  git clone https://github.com/123JUICE-BOY321/Neocolab-Bypass.git
   cd Neocolab-Bypass
   ```
 - ### Install Dependencies
